@@ -1,0 +1,11 @@
+Flask
+Flask-Bootstrap
+Flask-Login
+Flask-Migrate
+Flask-Script
+Flask-SQLAlchemy
+Flask-WTF
+Jinja2
+
+mypy
+black
