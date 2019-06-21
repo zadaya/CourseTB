@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 环境变量
 运行前设置以下环境变量：
 - export FLASK_APP=run.py
@@ -14,3 +15,8 @@
 1. flask db init
 2. flask db migrate
 3. flask db upgrade
+=======
+# CourseTB
+
+Flask 学习项目
+>>>>>>> cabed87630e7ca2fa95fe2f5241afd11e0a72dd3
